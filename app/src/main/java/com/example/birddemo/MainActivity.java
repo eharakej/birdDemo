@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         buttonSubmit.setOnClickListener(this);
         buttonGoTo.setOnClickListener(this);
+        //comment
+        
     }
 
     @Override
